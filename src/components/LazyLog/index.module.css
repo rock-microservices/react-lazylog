@@ -1,6 +1,7 @@
 .lazyLog {
   overflow: auto !important;
-  font-family: "Monaco", monospace;
+  /* font-family: "Monaco", monospace; */
+  font-family: system-ui;
   font-size: 12px;
   margin: 0;
   white-space: pre;
